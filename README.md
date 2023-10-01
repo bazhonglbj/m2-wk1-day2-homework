@@ -1,2 +1,1 @@
-# m2-wk1-day2-homework
- 
+# wk1-day2
